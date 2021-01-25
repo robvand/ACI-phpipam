@@ -1,3 +1,5 @@
+# This script will gather all configured BD subnets from APIC and add them to PHP-IPAM
+
 import requests
 import json
 import acitoolkit.acitoolkit as aci
